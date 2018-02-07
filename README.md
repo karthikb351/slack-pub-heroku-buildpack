@@ -1,0 +1,2 @@
+Heroku buildpack: slack-pub
+=======================
